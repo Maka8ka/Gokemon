@@ -1,2 +1,2 @@
 # Gokemon
-Gokémon 远程主机管理平台
+Remote Device management platform
